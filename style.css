@@ -1,0 +1,13 @@
+/* nav styles */
+
+.nav-bar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-btn{
+    padding: 10px 20px;
+    color: #006A50;
+    border: 2px solid #006A50;
+}
