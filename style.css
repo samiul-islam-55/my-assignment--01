@@ -34,7 +34,13 @@ body {
   font-weight: 600;
 }
 
+
+
+
 /* hero section style start */
+
+
+
 .hero-container {
   display: flex;
   justify-content: center;
@@ -87,7 +93,9 @@ body {
 
 
 
+
 /* main section start */
+
 
 
 main {
@@ -131,5 +139,75 @@ main {
     line-height: 24px;
     letter-spacing: 0%;
     text-align: left;
+  }
+
+
+
+
+  /* The Vision of Future style start here */
+
+
+.vision-container {
+    margin-top: 80px;
+  }
+  
+  .future-cart {
+    padding: 32px;
+    border-radius: 16px;
+    margin: 12px;
+  }
+  
+  .future-title {
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+  }
+  
+  .future-description {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 20px;
+    font-weight: 400;
+  }
+  /* future cart style */
+  .future-cart-title {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 22px;
+    font-weight: 700;
+  }
+  
+  .future-cart-description {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .future-cart-btn {
+    padding: 11px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+  }
+  
+  #future-cart-1 {
+    background: rgba(84, 144, 245, 0.2);
+  }
+  #future-cart-btn1 {
+    background: rgb(84, 144, 245);
+  }
+  
+  #future-cart-2 {
+    background: rgb(198, 228, 214);
+  }
+  #future-cart-btn2 {
+    background: rgb(9, 161, 92);
+  }
+  
+  #future-cart-3 {
+    background: rgb(247, 235, 207);
+  }
+  #future-cart-btn3 {
+    background: rgb(255, 194, 57);
   }
 
