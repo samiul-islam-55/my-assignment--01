@@ -411,3 +411,17 @@ footer {
   margin-left: 20px;
   margin-right: 20px;
 }
+
+
+/* hover effect style */
+
+
+.btn-sign-in:hover{background-color: rgb(203, 203, 206);}
+ .title-btn:hover{background-color:rgb(47, 80, 63) ;} 
+#future-cart-btn1:hover{background-color: #006a50;}
+#future-cart-btn2:hover{background-color: #006a50;}
+#future-cart-btn3:hover{background-color: #006a50;}
+.setalite-btn:hover{background-color: #013a2c;}
+.taka-title:hover{background-color: #6cccaf;}
+.donate-btn:hover{background-color: #013a2c;}
+.input-btn:hover{background-color: #013a2c;}
